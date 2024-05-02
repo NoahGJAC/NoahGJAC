@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on game programming with Unity.<br>🌱 I’m currently practicing Python and C++.
+🔭 I’m currently working on personal side projects, like creating a compiler and a google extension.<br>🌱 I’m currently practicing Python and C++.
 
 
 ## 🌐 Socials:
